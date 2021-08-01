@@ -4,3 +4,32 @@ body {
     text-align: center;
     color: white;
 }
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+a:visited{
+    color:aquamarine;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.description {
+    font-size: 21px;
+    color: gray;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
