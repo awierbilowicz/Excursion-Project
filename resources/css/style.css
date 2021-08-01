@@ -5,18 +5,14 @@ body {
     color: white;
 }
 
-h1 {
-    font-weight: normal;
-    font-size: 50px;
-}
-
-a:visited{
-    color:aquamarine;
-}
-
 .download-link {
     color: aquamarine;
     font-size: 16px;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
 }
 
 h2 {
@@ -24,12 +20,11 @@ h2 {
     font-size: 42px;
 }
 
-.description {
+p{
     font-size: 21px;
     color: gray;
 }
 
-.copyright {
+.footer {
     text-align: right;
-    color: gray;
 }
