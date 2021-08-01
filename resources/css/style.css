@@ -5,7 +5,7 @@ body {
     color: white;
 }
 
-.download-link {
+a {
     color: aquamarine;
     font-size: 16px;
 }
